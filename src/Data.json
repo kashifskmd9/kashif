@@ -1,0 +1,94 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"kashif md",
+                "email":"mdkashif@gmail.com",
+                "mobile":"+91 970178318"
+            },        
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"93",
+                    "institute":"sri chaitanya"
+                },
+                {
+                    "degree":"Intermediate - (M.P.C)",
+                    "percentage":"90",
+                    "institute":"sri chaitanya junior college"
+                },
+                {
+                    "degree":"B.Tech - (CSE)",
+                    "percentage":"85",
+                    "institute":"VVIT"
+                    
+                }
+            ],
+            "Skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["C","C++","Java","Python"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux","Ubuntu"]
+                }
+            ]
+        },
+
+        {
+            "basics":{
+                "name":"nabhinoor",
+                "email":"nabhinoor@gmail.com",
+                "mobile":"+91 970188318"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"98",
+                    "institute":"Bhashayam"
+                },
+                {
+                    "degree":"Intermediate - (M.P.C)",
+                    "percentage":"97",
+                    "institute":"Bhashayam junior college"
+                },
+                {
+                    "degree":"B.Tech - (CSE)",
+                    "percentage":"88",
+                    "institute":"VVIT"
+                    
+                }
+               
+
+            ],
+             "Skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["C","C++","Java","Python"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux","Ubuntu"]
+                }
+            ]
+        }
+    ]
+    
+}
